@@ -1,5 +1,13 @@
- Hi am Tristin. I am a junior developer.
+# Height and Weight PokeSearch
 
- This program will get the heigh and weight of pokemon from the pokeAPI.
+...
 
- Dependencies: Pokebase
+## Category: Junior
+
+I've been writing code for about 7 months
+
+## This program will look up the height and weight of a pokemon
+
+Dependencies: Pokebase
+
+...
