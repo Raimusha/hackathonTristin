@@ -10,4 +10,5 @@ I've been writing code for about 7 months
 
 Dependencies: Pokebase
 
+quickstart: start the program and type a pokemon
 ...
